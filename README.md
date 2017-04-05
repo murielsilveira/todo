@@ -1,5 +1,7 @@
 # Todo
 
+- https://medium.com/@Stephanbv/elixir-phoenix-lets-code-authentication-todo-application-part-1-599ee94cd04d
+
 To start your Phoenix app:
 
   * Install dependencies with `mix deps.get`
